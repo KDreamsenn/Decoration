@@ -142,7 +142,7 @@ body {
     translate: 0 -25%;
     filter: brightness(0.5);
   }
-  
+}  
 @media (max-width: 500px) {
   .image {
     animation: MoveX 2s ease-out both;
