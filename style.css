@@ -103,10 +103,7 @@ body {
   translate: 0 -25%;
   filter: brightness(0.5);
 }
-.card:active .image {
-  translate: 0 -25%;
-  filter: brightness(0.5);
-}
+
 .card:hover .icon:nth-child(1) {
   animation: display 0.2s both linear;
 }
