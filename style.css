@@ -167,12 +167,12 @@ body {
     animation-delay: 1.235s;
   }
 
-  .icon:active {
+  .icon:focus {
     background-color: rgba(0, 0, 0, 0.548);
     border: solid 1px white;
   }
 
-  .icon:active .icn {
+  .icon:focus .icn {
     transform: rotateY(360deg);
     background-color: white;
   }
