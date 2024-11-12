@@ -146,7 +146,7 @@ body {
 }
 
 @media (max-width: 500px) {
-  .image {
+  .image:focus {
     animation: MoveX 0.5s linear both;
     animation-delay: 1s;
   }
